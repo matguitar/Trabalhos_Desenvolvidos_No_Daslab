@@ -10,4 +10,4 @@ depois da implementação do mesmo. O projeto contou com diversas reuniões estr
 
 ### Sobre as bases de dados
 
-Foram usados dados de diferentes bases. Dentre elas, temos a base do Sistema de Informação sobre Mortalidade (SIM), dados do DataSUS (Ministério da Saúde), dados do IBGE e dados de apreenssões da PF no ES.
+Foram usados dados de diferentes bases. Dentre elas, temos a base do Sistema de Informação sobre Mortalidade (SIM), dados do DataSUS (Ministério da Saúde), dados do IBGE e dados de apreenssões da PF do ES.
